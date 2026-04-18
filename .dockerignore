@@ -1,0 +1,12 @@
+.git
+.github
+.vscode
+.idea
+tmp
+bin
+build
+dist
+*.log
+.env
+Dockerfile
+docker-compose.yml
